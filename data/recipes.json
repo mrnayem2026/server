@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjeev Kapoor",
+        "years_of_experience": 35,
+        "number_of_recipes": 10,
+        "likes": 1500000,
+        "picture": "https://images.pexels.com/photos/3338534/pexels-photo-3338534.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is one of the most well-known faces of Indian cuisine.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yoghurt",
+                    "Ginger garlic paste",
+                    "Tomato puree",
+                    "Cream"
+                ],
+                "cookingMethod": "Marinate chicken in yoghurt and spices, then cook in a tomato and cream sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger"
+                ],
+                "cookingMethod": "Saute onions and ginger, then add spinach and cook. Add paneer and serve.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati rice",
+                    "Onion",
+                    "Tomato",
+                    "Ginger garlic paste"
+                ],
+                "cookingMethod": "Cook rice and mutton separately, then layer them with spices and onions.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Vikas Khanna",
+        "years_of_experience": 20,
+        "number_of_recipes": 15,
+        "likes": 750000,
+        "picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is one of the most well-known faces of Indian cuisine.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yoghurt",
+                    "Ginger garlic paste",
+                    "Tomato puree",
+                    "Cream"
+                ],
+                "cookingMethod": "Marinate chicken in yoghurt and spices, then cook in a tomato and cream sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger"
+                ],
+                "cookingMethod": "Saute onions and ginger, then add spinach and cook. Add paneer and serve.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati rice",
+                    "Onion",
+                    "Tomato",
+                    "Ginger garlic paste"
+                ],
+                "cookingMethod": "Cook rice and mutton separately, then layer them with spices and onions.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tarla Dalal",
+        "years_of_experience": 40,
+        "number_of_recipes": 12,
+        "likes": 2000000,
+        "picture": "https://images.pexels.com/photos/3298641/pexels-photo-3298641.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is one of the most well-known faces of Indian cuisine.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yoghurt",
+                    "Ginger garlic paste",
+                    "Tomato puree",
+                    "Cream"
+                ],
+                "cookingMethod": "Marinate chicken in yoghurt and spices, then cook in a tomato and cream sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger"
+                ],
+                "cookingMethod": "Saute onions and ginger, then add spinach and cook. Add paneer and serve.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati rice",
+                    "Onion",
+                    "Tomato",
+                    "Ginger garlic paste"
+                ],
+                "cookingMethod": "Cook rice and mutton separately, then layer them with spices and onions.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ranveer Brar",
+        "years_of_experience": 25,
+        "number_of_recipes": 25,
+        "likes": 1200000,
+        "picture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is one of the most well-known faces of Indian cuisine.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yoghurt",
+                    "Ginger garlic paste",
+                    "Tomato puree",
+                    "Cream"
+                ],
+                "cookingMethod": "Marinate chicken in yoghurt and spices, then cook in a tomato and cream sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger"
+                ],
+                "cookingMethod": "Saute onions and ginger, then add spinach and cook. Add paneer and serve.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati rice",
+                    "Onion",
+                    "Tomato",
+                    "Ginger garlic paste"
+                ],
+                "cookingMethod": "Cook rice and mutton separately, then layer them with spices and onions.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Madhur Jaffrey",
+        "years_of_experience": 50,
+        "number_of_recipes": 22,
+        "likes": 2500000,
+        "picture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is one of the most well-known faces of Indian cuisine.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yoghurt",
+                    "Ginger garlic paste",
+                    "Tomato puree",
+                    "Cream"
+                ],
+                "cookingMethod": "Marinate chicken in yoghurt and spices, then cook in a tomato and cream sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger"
+                ],
+                "cookingMethod": "Saute onions and ginger, then add spinach and cook. Add paneer and serve.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati rice",
+                    "Onion",
+                    "Tomato",
+                    "Ginger garlic paste"
+                ],
+                "cookingMethod": "Cook rice and mutton separately, then layer them with spices and onions.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Atul Kochhar",
+        "years_of_experience": 30,
+        "number_of_recipes":18,
+        "likes": 1000000,
+        "picture": "https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "description": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is one of the most well-known faces of Indian cuisine.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yoghurt",
+                    "Ginger garlic paste",
+                    "Tomato puree",
+                    "Cream"
+                ],
+                "cookingMethod": "Marinate chicken in yoghurt and spices, then cook in a tomato and cream sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger"
+                ],
+                "cookingMethod": "Saute onions and ginger, then add spinach and cook. Add paneer and serve.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati rice",
+                    "Onion",
+                    "Tomato",
+                    "Ginger garlic paste"
+                ],
+                "cookingMethod": "Cook rice and mutton separately, then layer them with spices and onions.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    }
+]
